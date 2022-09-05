@@ -65,3 +65,37 @@ h1 {
 .footer {
     margin-top: 100px;
 }
+
+
+@media (max-width: 1028px) {
+
+    .logo {
+        width: 100px;
+    }
+
+    h1 {
+        font-weight: bold;
+        font-size: 2rem;
+        padding-bottom: 30px;
+        text-shadow: 2px 2px #EE6983;
+    }
+
+    .btn {
+
+        text-shadow: 1.3px 1.3px #850E35;
+        font-size: 1rem;
+        background-color: #553939;
+        text-align: right;
+    }
+
+    .link-icon {
+        width: 30px;
+        border-radius: 50%;
+        margin-right: 10px;
+        background-color: transparent;
+
+    }
+
+    .icon-whatsapp {
+        border-radius: 0%;
+    }
