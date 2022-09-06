@@ -13,3 +13,4 @@ function copyFeelUnique() {
 function copyLookFantastic() {
     navigator.clipboard.writeText("MAYA-R1WR")
 }
+
