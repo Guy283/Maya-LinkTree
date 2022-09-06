@@ -24,6 +24,10 @@ h1 {
     padding-top: 1%;
 }
 
+.link-text {
+    font-size: 1.7rem;
+}
+
 .btn {
 
     text-shadow: 1.3px 1.3px #850E35;
@@ -40,8 +44,8 @@ h1 {
 .link-icon {
     width: 7%;
     border-radius: 50%;
-    margin-right: 80px;
     background-color: transparent;
+
 
 }
 
@@ -80,7 +84,7 @@ h1 {
         text-shadow: 1.3px 1.3px #850E35;
         font-size: 1.1rem;
         background-color: #553939;
-        text-align: right;
+
     }
 
     .link-icon {
