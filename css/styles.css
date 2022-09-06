@@ -67,7 +67,7 @@ h1 {
     margin-top: 150px;
 }
 
-@media (max-width: 1028px) {
+@media (max-width: 480px) {
 
     .logo {
         width: 100px;
