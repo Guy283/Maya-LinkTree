@@ -42,7 +42,7 @@ h1 {
 }
 
 .link-icon {
-    width: 7%;
+    width: 50px;
     border-radius: 50%;
     background-color: transparent;
 
@@ -53,7 +53,7 @@ h1 {
     border-radius: 0%;
 }
 
-.coupon-section {
+#coupon-section {
     padding-top: 3%;
 }
 
@@ -61,6 +61,11 @@ h1 {
 .cpn-text {
     font-size: 1.8rem;
     font-weight: 300;
+}
+
+.copied {
+    font-style: italic;
+    font-size: 1.8rem;
 }
 
 .footer {
